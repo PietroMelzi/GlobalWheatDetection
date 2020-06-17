@@ -1,0 +1,2 @@
+# GlobalWheatDetection
+Kaggle competition
